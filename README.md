@@ -24,7 +24,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   - [Object Tracking](#object-tracking)
   - [Low-Level Vision](#low-level-vision)
     - [Super Resolution](#super-resolution)
-    - [Other Applications](#other-applications)
+    - [Other Topics](#others)
   - [Edge Detection](#edge-detection)
   - [Semantic Segmentation](#semantic-segmentation)
   - [Visual Attention and Saliency](#visual-attention-and-saliency)
@@ -100,7 +100,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
  * Others
     * Osendorfer, Christian, Hubert Soyer, and Patrick van der Smagt, Image Super-Resolution with Fast Approximate Convolutional Sparse Coding, ICONIP, 2014. [[Paper ICONIP-2014]](http://www.brml.org/uploads/tx_sibibtex/281.pdf)
 
-#### Other Applications
+#### Other Topics
  * Optical Flow (FlowNet) [[Paper]](http://arxiv.org/pdf/1504.06852)
   * Philipp Fischer, Alexey Dosovitskiy, Eddy Ilg, Philip Häusser, Caner Hazırbaş, Vladimir Golkov, Patrick van der Smagt, Daniel Cremers, Thomas Brox, FlowNet: Learning Optical Flow with Convolutional Networks, arXiv:1504.06852.
  * Compression Artifacts Reduction [[Paper-arXiv15]](http://arxiv.org/pdf/1504.06993)
